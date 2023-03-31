@@ -1,6 +1,5 @@
 ---
 layout: home 
-title: Home - bingfanbap
 ---
 
 Hello, I'm Helen!
