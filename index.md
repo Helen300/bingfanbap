@@ -1,4 +1,9 @@
-Here you can say lots of fun things about your site.
+---
+layout: home 
+title: Home - bingfanbap
+---
+
+Hello, I'm Helen!
 
 Maybe say a some things about yourself.
 
