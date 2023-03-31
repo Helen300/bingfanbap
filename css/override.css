@@ -19,6 +19,12 @@ hr {
   margin-bottom: 20px;
 }
 
+.flex-container {
+  display: flex; 
+  flex-direction: row;
+  background-color: #FAEAE1;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
