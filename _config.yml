@@ -41,3 +41,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+baseurl: "/bingfanbap"
+
